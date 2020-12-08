@@ -1,3 +1,6 @@
+/*
+ * This file has the header component style settings.
+ */
 .header{
     display: flex;
     justify-content: center;

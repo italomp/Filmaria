@@ -1,3 +1,6 @@
+/**
+ * This file has the App.js style settings.
+ */
 .container{
     display: flex;
     flex-direction: column;
