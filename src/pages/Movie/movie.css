@@ -1,0 +1,24 @@
+/*
+ * This file has the movie component style settings
+ */
+.movieInfo{
+    align-items: center;
+    justify-content: center;
+}
+
+.movieInfo article{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    width: 900px;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 5px;
+}
+
+.movieInfo img{
+    border-radius: 15px;
+}
+
