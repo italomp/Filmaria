@@ -60,10 +60,10 @@ class Movie extends Component{
             <div className="movieInfo">
                 <article>
                     <h1>{this.state.movieDatas.nome}</h1>
-                    {this.state.movieDatas.length != 0 &&
+                    {this.state.movieDatas.length !== 0 &&
                         <img src={this.state.movieDatas.foto} alt="movie cover"/> 
                     }
-                    {this.state.movieDatas.length != 0 &&
+                    {this.state.movieDatas.length !== 0 &&
                         <h3>Sinopse</h3>
                     }
                     <p>{this.state.movieDatas.sinopse}</p>

@@ -13,18 +13,7 @@ import Routes from './routes';
  * each movie iformations.
  */
 class App extends Component{ 
-
-    /**
-     * This is the component constructor
-     * @param props is the object that
-     * contains the properties delivered as parameter
-     * to the component 
-     */
-    constructor(props){
-        super(props);
-       
-    }
-
+    
     /**
      * This method renders the Routes component
      */
