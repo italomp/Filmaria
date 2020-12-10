@@ -1,6 +1,6 @@
 # Filmaria
 
-This project makes a requisition using fetch API to an external API and displays the movies returned.\
+This project makes a requisition using fetch API to an external API and displays the movies returned in home page.\
 This project also displays a page with informations about each movie.
 
 ## Available Scripts
