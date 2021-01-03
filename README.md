@@ -9,7 +9,7 @@ This project also shows a page with informations about each movie.
 <img src="https://github.com/italomp/assets/blob/master/2%20-%20filmaria/home%20page.PNG" max-height="600"> <br>
 The films are listed on this page.
 
-### 2 - Dynamic page, which show movie details
+### 2 - Dynamic page, which show details of the films
 <img src="https://github.com/italomp/assets/blob/master/2%20-%20filmaria/movie%20page.PNG" max-height="600"> <br>
 This page contains details of the film
 
