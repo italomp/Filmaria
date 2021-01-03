@@ -16,3 +16,7 @@
     color: white;
     cursor: pointer;
 }
+
+.header a img{
+    max-height: 40px;
+}

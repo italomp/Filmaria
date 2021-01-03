@@ -22,3 +22,7 @@
     border-radius: 15px;
 }
 
+.movieInfo article p{
+    text-align: justify;
+}
+
