@@ -7,13 +7,11 @@ This project also shows a page with informations about each movie.
 
 ### 1 - Home Page
 <img src="https://github.com/italomp/assets/blob/master/2%20-%20filmaria/home%20page.PNG" max-height="600"> <br>
-
-You can show posts, click to see the full posts (It will take you to a dynamic page), <br> 
-or to click 'entrar' button (It will take you to login page)
+The films are listed on this page.
 
 ### 2 - Dynamic page, which show movie details
 <img src="https://github.com/italomp/assets/blob/master/2%20-%20filmaria/movie%20page.PNG" max-height="600"> <br>
-You can see the full post
+This page contains details of the film
 
 ## How to run this project
 You need to download this project (with git clone or git pull) and in the project directory, you can run:
